@@ -28,7 +28,7 @@ A beginner-friendly **GUI puzzle game** built using Python's `tkinter`. Match al
 
 ## 📷 Preview
 
-![Game Demo](preview.png)
+![Game Demo](output(ss added in file) .png)
 
 ---
 
